@@ -1,4 +1,4 @@
-<h2>UL-Game-Of-Life</h2>
+<h2>Ultra Lightweight Game Of Life</h2>
 An extremely lightweight implementation of Conway's game of life, using a single int to represent the board.
 
 <h2>About</h2>
